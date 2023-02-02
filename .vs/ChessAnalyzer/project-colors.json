@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e0efe253-c53d-412e-b5cb-28d675ae41ca": {
+      "ProjectGuid": "e0efe253-c53d-412e-b5cb-28d675ae41ca",
+      "DisplayName": "ChessAnalyzer.UnitTests",
+      "ColorIndex": 0
+    },
+    "8ad1d2bc-1ad0-4bc1-b0fb-5ae3346df441": {
+      "ProjectGuid": "8ad1d2bc-1ad0-4bc1-b0fb-5ae3346df441",
+      "DisplayName": "ChessAnalyzer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
